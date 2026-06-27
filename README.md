@@ -1,17 +1,23 @@
-# Quartz v5
+# [therealthomas.net](https://therealthomas.net)
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Website using [Quartz](https://github.com/jackyzha0/quartz) and Markdown
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Description
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+This is a website I am building for fun but also a refrence for me and others about things that I learn, stories I write and much more.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## What I used / learned
+* Quartz
 
-## Sponsors
+## Resources
+* ...
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Authors
+
+Contributors names and contact info
+
+[@Thomas Henderson](https://www.facebook.com/profile.php?id=100069452002819)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
